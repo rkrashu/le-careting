@@ -1,0 +1,49 @@
+#header {width: 100%;
+background-color: aqua;}
+#heading   {float:left;
+width:40%;
+font-size: 25px;
+margin: 0px;
+padding: 0px;}
+#heading a{text-decoration: none;}
+#nav {width: 35%;
+float:right;}
+ul{list-style-type: none;
+margin-top: 50px;}
+ul li{display: inline-block;}
+ul li a{text-decoration: none;
+font-size: 25px;
+margin: 10px 10px 10px 10px;
+padding: 0px;
+color: red;}
+#container {width: 1200px;
+margin-left: auto;
+margin-right: auto;}
+#image2 {margin-top: 100px;
+width: 40%;
+margin-right: 0px;
+float: left;}
+#contant11 {width:45%;
+float:right;
+margin-top: 300px;
+text-align: justify;}
+#contant22 {clear: both;
+    width: 45%;
+    float: left;
+}
+#image3{float: right;
+margin-top: 120px;}
+.alu {padding: 0px;
+}
+#contact1{clear: both;}
+#contant22 {margin-top:100px ;}
+#contact1 {margin-top: 50px;
+    float: left;
+    width: 45%;}
+#form  {float: right;
+width: 40%;
+margin-top: 30px;}
+#footer{clear: both;
+text-align: center;
+padding: 10px;;
+margin: 10px;}
